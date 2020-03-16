@@ -1,9 +1,9 @@
 class Kfctl < Formula
   desc "Kubeflow CLI tool"
   homepage "https://www.kubeflow.org"
-  url "https://github.com/kubeflow/kubeflow/releases/download/v0.6.2/kfctl_v0.6.2_darwin.tar.gz"
-  version "0.6.2"
-  sha256 "3e409fad6cf040cd1fbc1ffeb0c47862528e1595e0dde70730d994b0a4b7e3dd"
+  url "https://github.com/kubeflow/kfctl/releases/download/v1.0.1/kfctl_v1.0.1-0-gf3edb9b_darwin.tar.gz"
+  version "1.0.1"
+  sha256 "330ed76a622623cd95cfb33f3319e545fc1f96679b1c8ab72ad94c264d3a2d67"
   head "https://github.com/kubeflow/kubeflow.git"
 
   bottle :unneeded
