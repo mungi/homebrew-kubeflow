@@ -3,7 +3,7 @@ class Kfctl < Formula
   homepage "https://www.kubeflow.org"
   url "https://github.com/kubeflow/kfctl/releases/download/v1.0.1/kfctl_v1.0.1-0-gf3edb9b_darwin.tar.gz"
   version "1.0.1"
-  sha256 "330ed76a622623cd95cfb33f3319e545fc1f96679b1c8ab72ad94c264d3a2d67"
+  sha256 "e3bbfbf69dacbeda9474d8e5e87c87b8bc70d6a42d23db0be6c8eecc7514abbd"
   head "https://github.com/kubeflow/kubeflow.git"
 
   bottle :unneeded
